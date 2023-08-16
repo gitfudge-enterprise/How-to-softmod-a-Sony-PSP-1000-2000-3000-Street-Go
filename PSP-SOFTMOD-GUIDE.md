@@ -32,4 +32,4 @@ If everything went smoothly, your PSP should now be running on 6.61 PRO custom f
 
 Remember that modding your PSP carries certain risks, and it's essential to follow the steps carefully and use trusted files from reputable sources. Mishandling the process could lead to issues or even bricking your PSP, rendering it unusable. Always proceed with caution and ensure you understand the process before attempting any modifications.
 
-All necesarry files can be downloaded above.
+All neccesary files can be downloaded above.
